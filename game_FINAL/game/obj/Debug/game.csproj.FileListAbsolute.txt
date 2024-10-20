@@ -1,0 +1,72 @@
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\user\Documents\HCI - C#\game\game\bin\Debug\game.exe.config
+C:\Users\user\Documents\HCI - C#\game\game\bin\Debug\game.exe
+C:\Users\user\Documents\HCI - C#\game\game\bin\Debug\game.pdb
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.Form1.resources
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.Form2.resources
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.exe
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.pdb
+C:\Users\user\Documents\HCI - C#\game\game\obj\Debug\game.Form3.resources
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.exe
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.pdb
+C:\Users\kyle_\source\repos\game\game\bin\Debug\game.exe.config
+C:\Users\kyle_\source\repos\game\game\bin\Debug\game.exe
+C:\Users\kyle_\source\repos\game\game\bin\Debug\game.pdb
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.Form1.resources
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.Form2.resources
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.Form3.resources
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\kyle_\source\repos\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\game\game\bin\Debug\game.exe.config
+C:\Users\User\Desktop\game\game\bin\Debug\game.exe
+C:\Users\User\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\User\Desktop\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\game\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\game\game\obj\Debug\game.Form1.resources
+C:\Users\User\Desktop\game\game\obj\Debug\game.Form2.resources
+C:\Users\User\Desktop\game\game\obj\Debug\game.Form3.resources
+C:\Users\User\Desktop\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\User\Desktop\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\User\Desktop\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\game\game\obj\Debug\game.exe
+C:\Users\User\Desktop\game\game\obj\Debug\game.pdb
+C:\Users\User\Desktop\game\game\obj\Debug\game.Form4.resources
+C:\Users\User\Desktop\game\game\obj\Debug\game.Form5.resources
+C:\Users\User\Desktop\game\game\obj\Debug\game.Form6.resources
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\bin\Debug\game.exe.config
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\bin\Debug\game.exe
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\bin\Debug\game.pdb
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.Form1.resources
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.Form2.resources
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.Form3.resources
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.Form4.resources
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.Form5.resources
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.Form6.resources
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.exe
+C:\Users\Carl\Downloads\game_FINAL-20231204T230845Z-001\game_FINAL\game\obj\Debug\game.pdb
+C:\Users\Carl\Downloads\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\Carl\Downloads\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.exe
+C:\Users\Carl\Downloads\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.pdb
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\bin\Debug\game.exe.config
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\bin\Debug\game.exe
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\bin\Debug\game.pdb
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.Form1.resources
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.Form2.resources
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.Form3.resources
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.Form4.resources
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.Form6.resources
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.exe
+C:\Users\kyle_\Downloads\Final w di gumagana na about us\Final w di gumagana na about us\game_FINAL\game\obj\Debug\game.pdb
